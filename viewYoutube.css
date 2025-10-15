@@ -1,0 +1,37 @@
+/* div#secondary{
+    display: none !important;
+    width: 0px;
+    height: 0px;
+}
+
+.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles{
+    display: none !important; 
+} */
+
+
+
+
+
+
+/* Barra del lado  */
+
+div#related{
+    display: none !important;
+}
+
+
+.html5-endscreen.ytp-player-content.videowall-endscreen.ytp-show-tiles{
+    display: none !important;
+}
+
+ytd-two-column-browse-results-renderer.style-scope.ytd-browse.grid.grid-disabled{
+    display: none !important;
+}
+
+yt-icon-button#guide-button{
+    display: none !important;
+}
+
+ytd-guide-renderer#guide-renderer{
+    display: none !important;
+}
